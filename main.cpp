@@ -3,7 +3,7 @@
 
 int main() {
     DigitalOut led(LED1);
-    std::string line = "dima is person";
+    std::string line = "kyrylo";
     std::string morse;
 
     for (int i = 0; i < line.length(); i++) {
